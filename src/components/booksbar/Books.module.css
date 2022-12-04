@@ -1,0 +1,45 @@
+.books__carousel{
+    position: relative;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    margin-top: 20px;
+    width: 1440px;
+}
+
+.books__button{
+    position: absolute;
+    top: 30%;
+    border: none;
+    background-color: white;
+    width: 50px;
+    height: 100px;
+    margin: 20px;
+}
+
+
+.books__button:last-child{
+    right: 0;
+}
+
+.image__item{
+    display: flex;
+    overflow: auto;
+    width: 1420px;
+    padding: 0 20px;
+ 
+}
+.books_photo{
+    height: 200px;
+}
+.books_photo > img{
+    object-fit: fill;
+    height: 200px;
+}
+
+.button__icon{
+    width: 30px;
+    height: 30px;
+
+}

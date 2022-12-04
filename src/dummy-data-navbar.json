@@ -1,0 +1,63 @@
+[
+    {
+        "title" : "Digital Content & Devices",
+        "items": [
+            "Amazon Music",
+            "Kindle E-reader & Books",
+            "Amazon Appstore"
+        ],
+        "childItem" :[
+            "Amazon Music Unlimitid",
+            "Free Streaming Music",
+            "Podcast"
+        ]
+
+    },
+    {
+        "title": "Shop by Department",
+        "items": [
+            "Electronics",
+            "Computers",
+            "Smart Home",
+            "Art & Crafts"
+        ],
+        "childItem" :[
+            "Amazon Music Unlimitid",
+            "Free Streaming Music",
+            "Podcast"
+        ]
+    },
+    {
+        "title": "Programs & Feature",
+        "items": [
+            "Gift Cards",
+            "#FoundltOnAmazon",
+            "Amazon Live",
+            "International Shopping",
+            "See All"
+        ],
+
+        "childItem" :[
+            "Amazon Music Unlimitid",
+            "Free Streaming Music",
+            "Podcast"
+        ]
+    },
+    {
+        "title": "Help & Setting",
+        "items": [
+            "Your Account",
+            "English",
+            "United States",
+            "Customer Service",
+            "Sign in"
+        ],
+
+        "childItem" :[
+            "Amazon Music Unlimitid",
+            "Free Streaming Music",
+            "Podcast"
+        ]
+    }
+]
+        

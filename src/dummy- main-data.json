@@ -1,0 +1,50 @@
+[
+    {
+        "title": "For your Fitness Needs",
+        "images": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/September/DashboardCards/Fuji_Dash_Fitness_2X._SY608_CB639748111_.jpg",
+        "link": "Shop now",
+        "linkUrl": "/shopnow"
+    },
+    {
+        "title": "Shop activity trackers and smartwatches",
+        "images": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/September/DashboardCards/Fuji_Dash_SmartWatch_2X._SY608_CB639922111_.jpg",
+        "link": "Shop now",
+        "linkUrl": "/shopnow"
+    },
+    {
+        "title": "Shop Laptops & Tablets",
+        "images": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_Laptops_758x608_2X_en_US._SY608_CB418608386_.jpg",
+        "link": "Shop now",
+        "linkUrl": "/shopnow"
+    },
+    {
+        "title": "Create with strip lights",
+        "images": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_Striplighting_758x608_2X_en_US._SY608_CB418597463_.jpg",
+        "link": "Shop now",
+        "linkUrl": "/shopnow"
+    },
+    {
+        "title": "Shop Pet supplies",
+        "images": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/September/DashboardCards/Fuji_Dash_Pets_2X._SY608_CB639746708_.jpg",
+        "link": "See more",
+        "linkUrl": "/seemore"
+    },
+    {
+        "title": "Deals in Tools",
+        "images": "https://images-na.ssl-images-amazon.com/images/G/01/home/THILGMA/Holiday2022/Graphics/XCM_CUTTLE_1475305_2610205_758x608_2X_en_US._SY608_CB608600856_.jpg",
+        "link": "Shop now",
+        "linkUrl": "/shopnow"
+    },
+    {
+        "title": "New arrivals in Toys",
+        "images": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/September/DashboardCards/Fuji_Dash_Toys_1X._SY304_CB639759658_.jpg",
+        "link": "Shop now",
+        "linkUrl": "/shopnow"
+    },
+    {
+        "title": "Kindle E readers",
+        "images": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/September/DashboardCards/Fuji_Desktop_Dash_Kindle_2X._SY608_CB639752734_.jpg",
+        "link": "Shop now",
+        "linkUrl": "/shopnow"
+    }
+]

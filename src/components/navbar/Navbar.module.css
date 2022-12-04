@@ -1,0 +1,131 @@
+.NavbarWrapper{
+    position: absolute;
+    z-index: 10;
+    top: 0;
+    width: 25%;
+    height: 150vh;
+    background-color: #ffffff;
+    transition: all 0.3s;
+}
+
+.sideBarUser{
+    display: flex;
+    height: 50px;
+    background-color: #222F3E;
+    align-items: center;
+
+}
+
+.sideBarUser > h2 {
+    color: white;
+}
+
+.SiderBarIcon{
+    color: white;
+    font-size: 30px;
+    margin: 0 15px;
+    cursor: pointer;
+}
+
+.NavbarWrapper > h2{
+    z-index: 11;
+    border: 2px solid red;
+}
+
+.DataWrapper{
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+.DataWrapper >h3 ,p{
+    color: #111;
+
+}
+
+.menu__bar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 40px;
+    padding: 0 15px;
+}
+
+.menu__bar > p{
+    font-size: 16px;
+    margin: 0;
+}
+
+.DataWrapper >h3{
+    font-size: 20px;
+    padding-left: 15px;
+}
+
+.navbar__icon{
+    font-size: 25px;
+    color: #BFC0C1;
+}
+
+.close__icon{
+    position: absolute;
+    top: 1.7%;
+    right: -9%;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    color: #fff;
+}
+
+.main__menu{
+    transform: translateX(-100%);
+    transition: 350ms;
+} 
+
+
+
+.childItem{
+    display: block;
+    background-color: red;
+}
+
+
+.childOpenMenu{
+    display: none;
+}
+
+.childMenu{
+    position: absolute;
+    top: 0%;
+    right: -60%;
+    display: block;
+}
+
+.childMenu > p{
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.childMenu > div> h3 {
+    font-size: 20px;
+    cursor: pointer;
+    border-bottom: black ;
+    color: #111;
+    margin: 0;
+    
+ 
+}
+
+
+.zz{
+    font-size: 28px;
+}
+
+
+.childMenu > div {
+
+    margin: 15px 0;
+    align-items:center;
+    display: flex;
+    /* border-bottom: 2px solid rgba(121, 117, 117, 0.771); */
+
+}

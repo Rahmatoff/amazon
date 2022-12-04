@@ -1,0 +1,39 @@
+.carousel{
+    position: relative;
+}
+
+
+.carouselWrapper{
+    display: flex;
+    width: 1440px;
+    overflow: auto;
+
+}
+
+.carouselItem{
+    transition: 0.3;
+    width: 1440px;
+}
+
+
+ .carouselButton{
+    position: absolute;
+    background-color: transparent;
+    width: 50px;
+    height: 50px;
+    border: none;
+    top: 25%;
+    cursor: pointer;
+
+} 
+
+
+.carouselButton:last-child{
+    right: 0;
+}
+
+.icon{
+    height: 40px;
+    width: 40px;
+    color: #fff
+}
